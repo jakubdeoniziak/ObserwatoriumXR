@@ -11,7 +11,7 @@ public class OpenURL : MonoBehaviour
 
     public void OpenGitHub()
     {
-        Application.OpenURL("https://github.com/jakubdeoniziak");
+        Application.OpenURL("https://github.com/jakubdeoniziak/ObserwatoriumXR");
     }
 
 }
